@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\github\\LC_MyDelegateEvent\\LC_MyDelegateEvent\\LC_MyDelegateEvent.csproj": {}
+    "G:\\github\\LC_MyDelegateEvent\\LC_MyDelegateEvent\\LC_MyDelegateEvent.csproj": {}
   },
   "projects": {
-    "D:\\github\\LC_MyDelegateEvent\\LC_MyDelegateEvent\\LC_MyDelegateEvent.csproj": {
+    "G:\\github\\LC_MyDelegateEvent\\LC_MyDelegateEvent\\LC_MyDelegateEvent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\github\\LC_MyDelegateEvent\\LC_MyDelegateEvent\\LC_MyDelegateEvent.csproj",
+        "projectUniqueName": "G:\\github\\LC_MyDelegateEvent\\LC_MyDelegateEvent\\LC_MyDelegateEvent.csproj",
         "projectName": "LC_MyDelegateEvent",
-        "projectPath": "D:\\github\\LC_MyDelegateEvent\\LC_MyDelegateEvent\\LC_MyDelegateEvent.csproj",
-        "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
-        "outputPath": "D:\\github\\LC_MyDelegateEvent\\LC_MyDelegateEvent\\obj\\",
+        "projectPath": "G:\\github\\LC_MyDelegateEvent\\LC_MyDelegateEvent\\LC_MyDelegateEvent.csproj",
+        "packagesPath": "C:\\Users\\Administrator.CQLZD-2021OAHFP\\.nuget\\packages\\",
+        "outputPath": "G:\\github\\LC_MyDelegateEvent\\LC_MyDelegateEvent\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator.CQLZD-2021OAHFP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
