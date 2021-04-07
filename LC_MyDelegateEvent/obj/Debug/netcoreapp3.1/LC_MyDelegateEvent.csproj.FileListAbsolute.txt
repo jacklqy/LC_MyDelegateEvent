@@ -17,10 +17,10 @@ D:\github\LC_MyDelegateEvent\LC_MyDelegateEvent\bin\Debug\netcoreapp3.1\LC_MyDel
 D:\github\LC_MyDelegateEvent\LC_MyDelegateEvent\bin\Debug\netcoreapp3.1\LC_MyDelegateEvent.runtimeconfig.dev.json
 D:\github\LC_MyDelegateEvent\LC_MyDelegateEvent\bin\Debug\netcoreapp3.1\LC_MyDelegateEvent.dll
 D:\github\LC_MyDelegateEvent\LC_MyDelegateEvent\bin\Debug\netcoreapp3.1\LC_MyDelegateEvent.pdb
-D:\github\LC_MyDelegateEvent\LC_MyDelegateEvent\obj\Debug\netcoreapp3.1\LC_MyDelegateEvent.csprojAssemblyReference.cache
 D:\github\LC_MyDelegateEvent\LC_MyDelegateEvent\obj\Debug\netcoreapp3.1\LC_MyDelegateEvent.AssemblyInfoInputs.cache
 D:\github\LC_MyDelegateEvent\LC_MyDelegateEvent\obj\Debug\netcoreapp3.1\LC_MyDelegateEvent.AssemblyInfo.cs
 D:\github\LC_MyDelegateEvent\LC_MyDelegateEvent\obj\Debug\netcoreapp3.1\LC_MyDelegateEvent.csproj.CoreCompileInputs.cache
 D:\github\LC_MyDelegateEvent\LC_MyDelegateEvent\obj\Debug\netcoreapp3.1\LC_MyDelegateEvent.dll
 D:\github\LC_MyDelegateEvent\LC_MyDelegateEvent\obj\Debug\netcoreapp3.1\LC_MyDelegateEvent.pdb
 D:\github\LC_MyDelegateEvent\LC_MyDelegateEvent\obj\Debug\netcoreapp3.1\LC_MyDelegateEvent.genruntimeconfig.cache
+D:\github\LC_MyDelegateEvent\LC_MyDelegateEvent\obj\Debug\netcoreapp3.1\LC_MyDelegateEvent.csprojAssemblyReference.cache
