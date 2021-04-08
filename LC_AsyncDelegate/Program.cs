@@ -21,20 +21,20 @@ namespace LC_AsyncDelegate
         {
             try
             {
-                ////ThreadMethod.TestTask();
-                ////1、
-                //BeginInvokeClass.UsingEndInvoke0();
+                //ThreadMethod.TestTask();
+                //1、
+                BeginInvokeClass.UsingEndInvoke0();
 
-                //Console.WriteLine("**********************************************");
-                ////2、
-                //BeginInvokeAndEndInvokeClass.UsingEndInvoke1();
-                //Console.WriteLine("**********************************************");
-                //BeginInvokeAndEndInvokeClass.UsingEndInvoke2();
-                //Console.WriteLine("**********************************************");
-                //BeginInvokeAndEndInvokeClass.UsingEndInvoke3();
-                //Console.WriteLine("**********************************************");
-                //BeginInvokeAndEndInvokeClass.UsingEndInvoke4();
-                //Console.WriteLine("**********************************************");
+                Console.WriteLine("**********************************************");
+                //2、
+                BeginInvokeAndEndInvokeClass.UsingEndInvoke1();
+                Console.WriteLine("**********************************************");
+                BeginInvokeAndEndInvokeClass.UsingEndInvoke2();
+                Console.WriteLine("**********************************************");
+                BeginInvokeAndEndInvokeClass.UsingEndInvoke3();
+                Console.WriteLine("**********************************************");
+                BeginInvokeAndEndInvokeClass.UsingEndInvoke4();
+                Console.WriteLine("**********************************************");
                 //3、
                 BeginInvokeAndEndInvokeCallbackClass.CallSleepWithoutOutAndRefParameterWithCallback();
 
