@@ -1,0 +1,7 @@
+D:\github\LC_MyDelegateEvent\LC_AsyncDelegate\bin\Debug\LC_AsyncDelegate.exe.config
+D:\github\LC_MyDelegateEvent\LC_AsyncDelegate\bin\Debug\LC_AsyncDelegate.exe
+D:\github\LC_MyDelegateEvent\LC_AsyncDelegate\bin\Debug\LC_AsyncDelegate.pdb
+D:\github\LC_MyDelegateEvent\LC_AsyncDelegate\obj\Debug\LC_AsyncDelegate.csprojAssemblyReference.cache
+D:\github\LC_MyDelegateEvent\LC_AsyncDelegate\obj\Debug\LC_AsyncDelegate.csproj.CoreCompileInputs.cache
+D:\github\LC_MyDelegateEvent\LC_AsyncDelegate\obj\Debug\LC_AsyncDelegate.exe
+D:\github\LC_MyDelegateEvent\LC_AsyncDelegate\obj\Debug\LC_AsyncDelegate.pdb

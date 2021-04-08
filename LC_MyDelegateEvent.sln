@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC_MyDelegateEvent", "LC_MyDelegateEvent\LC_MyDelegateEvent.csproj", "{43EE221C-2620-4285-A485-964445BF9B0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC_MyDelegateEvent", "LC_MyDelegateEvent\LC_MyDelegateEvent.csproj", "{43EE221C-2620-4285-A485-964445BF9B0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC_AsyncDelegate", "LC_AsyncDelegate\LC_AsyncDelegate.csproj", "{3908E04A-B26B-45F5-A06E-9B9CFC8B993E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{43EE221C-2620-4285-A485-964445BF9B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43EE221C-2620-4285-A485-964445BF9B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43EE221C-2620-4285-A485-964445BF9B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3908E04A-B26B-45F5-A06E-9B9CFC8B993E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3908E04A-B26B-45F5-A06E-9B9CFC8B993E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3908E04A-B26B-45F5-A06E-9B9CFC8B993E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3908E04A-B26B-45F5-A06E-9B9CFC8B993E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
