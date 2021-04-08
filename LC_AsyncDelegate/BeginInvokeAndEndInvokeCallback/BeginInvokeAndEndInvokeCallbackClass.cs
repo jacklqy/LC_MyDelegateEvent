@@ -43,7 +43,8 @@ namespace LC_AsyncDelegate.BeginInvokeAndEndInvokeCallback
             //param1 = 1000000;
             //param2 = "hello1111";
             //param3 = new ArrayList();
-            return $"param1={param1},param2={param2},param3.Count={param3.Count}";
+            param3.Add("Item2");
+            return $"param1={param1},param2={param2},param3.Count={param3.Count}";//param3是引用类型 param3.Count=2
         }
 
 
