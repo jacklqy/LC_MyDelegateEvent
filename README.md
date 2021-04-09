@@ -43,3 +43,5 @@
 ![image](https://user-images.githubusercontent.com/26539681/113878681-69522800-97ec-11eb-80ad-c8aa29ef0791.png)
 ![image](https://user-images.githubusercontent.com/26539681/113878754-7bcc6180-97ec-11eb-8015-a9e4a0de08ff.png)
 ![image](https://user-images.githubusercontent.com/26539681/113878806-85ee6000-97ec-11eb-8730-52281ea90384.png)
+
+希望为.net开源社区尽绵薄之力，探lu者###一直在探索前进的路上###（QQ:529987528）
